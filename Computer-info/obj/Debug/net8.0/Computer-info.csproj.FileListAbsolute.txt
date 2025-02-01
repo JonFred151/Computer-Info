@@ -1,0 +1,14 @@
+C:\Users\Jon\source\repos\Computer-info\Computer-info\bin\Debug\net8.0\Computer-info.exe
+C:\Users\Jon\source\repos\Computer-info\Computer-info\bin\Debug\net8.0\Computer-info.deps.json
+C:\Users\Jon\source\repos\Computer-info\Computer-info\bin\Debug\net8.0\Computer-info.runtimeconfig.json
+C:\Users\Jon\source\repos\Computer-info\Computer-info\bin\Debug\net8.0\Computer-info.dll
+C:\Users\Jon\source\repos\Computer-info\Computer-info\bin\Debug\net8.0\Computer-info.pdb
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.AssemblyInfo.cs
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.dll
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\refint\Computer-info.dll
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.pdb
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\Computer-info.genruntimeconfig.cache
+C:\Users\Jon\source\repos\Computer-info\Computer-info\obj\Debug\net8.0\ref\Computer-info.dll
